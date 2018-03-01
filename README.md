@@ -1,3 +1,3 @@
 # Pacbio
-This software is used for pacbio analysis
-collect_correct was used collect all pacbio sequencees containing corrected and not.
+This software is used to draw a Venn picture.
+There is no limite for the number of sample.
